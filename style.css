@@ -1,0 +1,27 @@
+*{
+   margin: 0;
+   padding: 0; 
+   background-color: black;  
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.jvideo{
+    padding-top: 60px;
+    padding-left: 100px;
+}
+.content{
+    color: rgb(206, 184, 127);
+}
+.icon{
+    
+}
+.one{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
